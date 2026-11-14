@@ -1,0 +1,20 @@
+name: Question or feature request
+description: Ask about installation or configuration, or suggest an improvement.
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please check the [documentation](https://github.com/herbalydigital/queuehunter-free#documentation) first.
+        Never include secrets or production data.
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question or idea
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Your setup and what you are trying to achieve.

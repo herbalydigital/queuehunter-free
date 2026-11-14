@@ -1,0 +1,52 @@
+name: Bug report
+description: Something in QueueHunter Free does not work as documented.
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Do not include** license keys, passwords, tokens, broker URLs with credentials,
+        `.env` contents, private keys or production message contents. Use placeholders.
+        Security problems: use the private vulnerability report instead.
+  - type: input
+    id: version
+    attributes:
+      label: QueueHunter version
+      description: From the release name or `docker compose -f compose.prebuilt.yaml images`.
+      placeholder: "0.1.16-package-text.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: broker
+    attributes:
+      label: Broker
+      options: [RabbitMQ, Kafka, Both, Not broker related]
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Host OS, Docker and Compose versions, broker versions.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: Steps to reproduce, what you expected and what happened instead.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant logs
+      description: "`docker compose -f compose.prebuilt.yaml logs --tail=100 api frontend`, with secrets removed."
+      render: text
+  - type: checkboxes
+    id: no-secrets
+    attributes:
+      label: Confirmation
+      options:
+        - label: I removed all secrets, license keys and production data from this report.
+          required: true

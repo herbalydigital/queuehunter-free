@@ -1,0 +1,10 @@
+# Never commit local configuration, secrets or downloaded packages.
+.env
+.env.*
+!package/env.example
+*.key
+*.pem
+*.crt
+*.tar
+*.tar.gz
+dist/

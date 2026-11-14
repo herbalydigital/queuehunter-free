@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Trial license key and product information
+    url: https://queuehunter.com/
+    about: Request a free trial key and read about the Team and Enterprise editions.
+  - name: Report a security vulnerability
+    url: https://github.com/herbalydigital/queuehunter-free/security/advisories/new
+    about: Please report security problems privately, never in a public issue.
