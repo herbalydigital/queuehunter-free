@@ -2,7 +2,7 @@
 
 **Find, inspect and trace stuck messages across RabbitMQ and Kafka — self-hosted.**
 
-QueueHunter is a queue observability tool for development, staging and production debugging.
+QueueHunter is a message debugging tool for development, staging and production.
 It captures messages from RabbitMQ and Kafka into a local database and gives you a web UI to
 search them, inspect payloads and headers, and follow a message's recent history.
 
