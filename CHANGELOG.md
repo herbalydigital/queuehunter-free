@@ -3,6 +3,16 @@
 Only versions published in this repository are listed. Each entry links to its GitHub release,
 which contains the package, its checksum and the software bill of materials.
 
+## [0.1.21](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.21) — 2026-11-23
+
+- Fixed: a Kafka or RabbitMQ message that is not valid JSON (binary data or broken UTF-8) no longer
+  stops capturing. QueueHunter keeps its original bytes in the new **Capture quarantine** list (up
+  to 256 KiB per message, with its size and SHA-256) and continues with the next message.
+- The quarantine list shows the broker coordinates, reason and content of each entry. Replaying a
+  quarantined message with its original bytes is a write action and needs Team or Enterprise.
+- Fixed: any valid JSON value is captured, including very large numbers and deeply nested
+  documents.
+
 ## [0.1.20](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.20) — 2026-11-23
 
 Includes the Free changes of 0.1.16-tagline.1 to 0.1.19, which were not published separately here.
