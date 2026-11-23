@@ -3,6 +3,12 @@
 Only versions published in this repository are listed. Each entry links to its GitHub release,
 which contains the package, its checksum and the software bill of materials.
 
+## [0.1.23](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.23) — 2026-11-23
+
+- No changes to the Free edition. This release adds the online environment check of the Team and
+  Enterprise editions; Free installations do not contact the licensing service for it and need no
+  broker plugin.
+
 ## [0.1.22](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.22) — 2026-11-23
 
 - Message details are easier to read: the payload comes first, with a collapsible tree view
