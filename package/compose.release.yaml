@@ -1,5 +1,5 @@
 services:
   api:
-    image: queuehunter-api:qh-eb397a8494e0-free
+    image: queuehunter-api:qh-56015a296657-free
   frontend:
-    image: queuehunter-web:qh-eb397a8494e0
+    image: queuehunter-web:qh-56015a296657

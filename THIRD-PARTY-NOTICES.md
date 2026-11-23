@@ -10,8 +10,8 @@ The QueueHunter container images are built on third-party open-source components
 Each component remains subject to its own license. The complete component list with versions
 and licenses is published with every release as a CycloneDX software bill of materials:
 
-- `queuehunter-free-0.1.21-api.cdx.json`
-- `queuehunter-free-0.1.21-web.cdx.json`
+- `queuehunter-free-0.1.22-api.cdx.json`
+- `queuehunter-free-0.1.22-web.cdx.json`
 
 Exact base-image digests and the image IDs of a release are recorded in `qh-release.json` inside
 the release archive.
@@ -24,7 +24,7 @@ QueueHunter's own code is not licensed under these terms. Apache-2.0 components 
 NOTICE files.
 
 **Source code.** Every such component of a release, with its exact version and the public location
-of its complete corresponding source, is listed in `queuehunter-free-0.1.21-sources.md`, published with the release
+of its complete corresponding source, is listed in `queuehunter-free-0.1.22-sources.md`, published with the release
 next to the SBOMs. If a location is unavailable, we provide that source on request, at no charge
 beyond our actual cost of making the copy, for at least three years after we last distributed the
 release. Send requests to support@queuehunter.com and name the release and the component.
