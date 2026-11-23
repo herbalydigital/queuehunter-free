@@ -6,14 +6,14 @@ Copyright © 2026 Herbály Gábor e.v. (QueueHunter). Minden jog fenntartva.
 ([LICENSE.md](LICENSE.md)) tájékoztató fordítás; eltérés esetén a magyar változat az irányadó.
 
 A QueueHunter Free ingyenesen biztosított, zárt forráskódú szoftver; **nem** nyílt forráskódú.
-A letöltéssel, telepítéssel vagy használattal elfogadod ezt a licencet. Ha nem fogadod el, ne
-töltsd le, ne telepítsd és ne használd a szoftvert.
+A letöltéssel, telepítéssel vagy használattal Ön elfogadja ezt a licencet. Ha nem fogadja el, ne
+töltse le, ne telepítse és ne használja a szoftvert.
 
 ## 1. Felek és tárgy
 
 - **Licencadó:** Herbály Gábor e.v. (egyéni vállalkozó, Magyarország, nyilvántartási szám:
   62995018), elérhetőség: https://queuehunter.com/.
-- **Felhasználó (te):** az a természetes személy vagy szervezet, aki vagy amelynek nevében a
+- **Felhasználó (Ön):** az a természetes személy vagy szervezet, aki vagy amelynek nevében a
   szoftvert telepítik vagy használják.
 - **Szoftver:** a QueueHunter Free konténerképei, kiadási csomagjai, telepítő- és
   konfigurációs fájljai, valamint az ebben a tárolóban és kiadásaiban közzétett dokumentáció,
@@ -24,9 +24,9 @@ töltsd le, ne telepítsd és ne használd a szoftvert.
 A Licencadó a próbaidőszak tartamára ingyenes, nem kizárólagos, át nem ruházható és tovább nem
 engedélyezhető felhasználási jogot ad arra, hogy
 
-- a Szoftvert **egy telepítésben** telepítsd, és
-- kipróbálás céljára, illetve saját belső céljaidra – ideértve a belső üzleti felhasználást –
-  használd.
+- a Szoftvert **egy telepítésben** telepítse, és
+- kipróbálás céljára, illetve saját belső céljaira – ideértve a belső üzleti felhasználást –
+  használja.
 
 A használathoz a https://queuehunter.com/ oldalon kiadott érvényes próbalicenckulcs szükséges. A
 próbaidőszak hosszát a kulcs kiadásakor közöljük (jelenleg 30 nap). A Szoftvert nem eladjuk,
@@ -42,18 +42,18 @@ szükséges.
 
 ## 4. Korlátozások
 
-Kivéve, ha kötelező jogszabály kifejezetten megengedi, nem jogosult vagy arra, hogy
+Kivéve, ha kötelező jogszabály kifejezetten megengedi, Ön nem jogosult arra, hogy
 
-- a Szoftvert eladd, bérbe vagy haszonkölcsönbe add, harmadik félnek felhasználási jogot adj rá,
-  továbbterjeszd, vagy harmadik feleknek üzemeltetett szolgáltatásként nyújtsd;
-- a licenckulcsodat megoszd, közzétedd vagy átadd, illetve a licencellenőrzést vagy a kiadás
-  korlátait megkerüld, kikapcsold vagy módosítsd;
-- a Szoftvert visszafejtsd, dekompiláld vagy disassemblálld, illetve versenytárs termék
-  létrehozása céljából módosítsd;
-- a szerzői jogi, licenc- vagy tulajdonosi jelöléseket eltávolítsd vagy módosítsd.
+- a Szoftvert eladja, bérbe vagy haszonkölcsönbe adja, harmadik félnek felhasználási jogot adjon rá,
+  továbbterjessze, vagy harmadik feleknek üzemeltetett szolgáltatásként nyújtsa;
+- a licenckulcsát megossza, közzétegye vagy átadja, illetve a licencellenőrzést vagy a kiadás
+  korlátait megkerülje, kikapcsolja vagy módosítsa;
+- a Szoftvert visszafejtse, dekompilálja vagy disassemblálja, illetve versenytárs termék
+  létrehozása céljából módosítsa;
+- a szerzői jogi, licenc- vagy tulajdonosi jelöléseket eltávolítsa vagy módosítsa.
 
-Biztonsági másolatot készíthetsz, és a Szoftvert a megengedett használathoz konfigurálhatod és
-integrálhatod. Ez a pont nem korlátozza a kötelező jogszabályon alapuló jogokat (például az
+Biztonsági másolatot készíthet, és a Szoftvert a megengedett használathoz konfigurálhatja és
+integrálhatja. Ez a pont nem korlátozza a kötelező jogszabályon alapuló jogokat (például az
 együttműködési célú visszafejtést).
 
 ## 5. Licencellenőrzés és adatok
@@ -61,8 +61,8 @@ együttműködési célú visszafejtést).
 A Szoftver induláskor és naponta egyszer ellenőrzi a licenckulcsot a Licencadó licenckezelő
 szolgáltatásánál (Keygen). Az ellenőrzés a licenckulcsot, egy véletlenszerű telepítésazonosítót
 és egy rögzített gépnevet küldi el; üzenettartalmat, brokerneveket vagy használati telemetriát
-nem. A rögzített üzenetek kizárólag a te környezetedben tárolódnak; te felelsz azért, hogy
-jogosult vagy hozzáférni és kezelni őket, valamint a szerver, a mentések és a hálózati hozzáférés
+nem. A rögzített üzenetek kizárólag az Ön környezetében tárolódnak; Ön felel azért, hogy
+jogosult hozzáférni és kezelni őket, valamint a szerver, a mentések és a hálózati hozzáférés
 védelméért.
 
 A próbakulcs igényléséhez használt személyes adatok kezelését az
@@ -73,31 +73,31 @@ A próbakulcs igényléséhez használt személyes adatok kezelését az
 A Licencadó jogosult, de – a kötelező jogszabályi előírások kivételével – nem köteles a
 QueueHunter Free-hez funkciófrissítést vagy támogatást nyújtani. A biztonsági sebezhetőségek
 kezelését a [SECURITY.md](SECURITY.md) írja le. Kérdéseket és hibajelentéseket a
-[SUPPORT.md](SUPPORT.md) szerinti csatornákon küldhetsz; a Licencadó a visszajelzéseidet a
-QueueHunter fejlesztésére felhasználhatja, ezért veled szemben kötelezettség nem terheli.
+[SUPPORT.md](SUPPORT.md) szerinti csatornákon küldhet; a Licencadó a visszajelzéseit a
+QueueHunter fejlesztésére felhasználhatja, ezért Önnel szemben kötelezettség nem terheli.
 
 ## 7. Harmadik féltől származó összetevők
 
 A konténerképek harmadik féltől származó nyílt forráskódú összetevőket tartalmaznak. Ezekre a
 saját licencük vonatkozik, amely az adott összetevőre nézve elsőbbséget élvez; lásd
 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md). Ez a licenc nem korlátozza az ezekből a
-licencekből eredő jogaidat.
+licencekből eredő jogait.
 
 ## 8. Időtartam és megszűnés
 
-Ez a licenc a próbaidőszak végén automatikusan megszűnik. Megszűnik akkor is, ha lényegesen
-megszeged; ha a szegés orvosolható, a Licencadó előbb értesít, és észszerű határidőt ad az
+Ez a licenc a próbaidőszak végén automatikusan megszűnik. Megszűnik akkor is, ha Ön lényegesen
+megszegi; ha a szegés orvosolható, a Licencadó előbb értesít, és észszerű határidőt ad az
 orvoslásra. A Licencadó visszaélés vagy biztonsági kockázat esetén felfüggesztheti a
-licenckulcsot. A megszűnéskor be kell fejezned a Szoftver használatát, és el kell távolítanod
-vagy le kell tiltanod. A 4., 7., 9., 10. és 11. pont a megszűnés után is hatályos marad.
+licenckulcsot. A megszűnéskor be kell fejeznie a Szoftver használatát, és el kell távolítania
+vagy le kell tiltania. A 4., 7., 9., 10. és 11. pont a megszűnés után is hatályos marad.
 
 ## 9. Szavatosság kizárása
 
 A Szoftver ingyenes, és **„úgy, ahogy van”, „ahogy elérhető”** állapotban biztosítjuk. A
 jogszabály által megengedett legteljesebb mértékben a Licencadó semmilyen kifejezett vagy
 hallgatólagos szavatosságot vagy jótállást nem vállal, ideértve az adott célra való
-alkalmasságot, a megszakítás- és hibamentes működést, valamint a környezeteddel való
-kompatibilitást. Használat előtt teszteld a Szoftvert, és készíts tőle független mentéseket.
+alkalmasságot, a megszakítás- és hibamentes működést, valamint az Ön környezetével való
+kompatibilitást. Használat előtt tesztelje a Szoftvert, és készítsen tőle független mentéseket.
 
 ## 10. Felelősség korlátozása
 
@@ -118,9 +118,9 @@ valósághű hivatkozást.
 ## 12. Irányadó jog és jogviták
 
 Erre a licencre a magyar jog az irányadó, a nemzetközi magánjogi szabályok kizárásával. A
-jogvitákat a hatáskörrel és illetékességgel rendelkező magyar bíróság dönti el. Ha fogyasztó
-vagy, ez nem foszt meg a szokásos tartózkodási helyed szerinti ország kötelező jogszabályainak
-védelmétől, illetve attól a jogodtól, hogy ott indíts eljárást.
+jogvitákat a hatáskörrel és illetékességgel rendelkező magyar bíróság dönti el. Ha Ön fogyasztó,
+ez nem fosztja meg a szokásos tartózkodási helye szerinti ország kötelező jogszabályainak
+védelmétől, illetve attól a jogától, hogy ott indítson eljárást.
 
 ## 13. Záró rendelkezések
 
