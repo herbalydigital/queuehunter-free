@@ -33,11 +33,11 @@ Requirements: Linux x86-64, Docker Engine with Docker Compose v2, outbound HTTPS
 validation and network access to your brokers. See [system requirements](docs/SYSTEM-REQUIREMENTS.md).
 
 1. **Get a trial license key** on [queuehunter.com](https://queuehunter.com/#pricing).
-2. **Download** `queuehunter-free-0.1.23.tar.gz` and its `.sha256` from the
+2. **Download** `queuehunter-free-0.1.24.tar.gz` and its `.sha256` from the
    [latest release](https://github.com/herbalydigital/queuehunter-free/releases/latest), then verify and extract it:
    ```sh
-   sha256sum -c queuehunter-free-0.1.23.tar.gz.sha256
-   mkdir -p /opt/queuehunter && tar -xzf queuehunter-free-0.1.23.tar.gz -C /opt/queuehunter
+   sha256sum -c queuehunter-free-0.1.24.tar.gz.sha256
+   mkdir -p /opt/queuehunter && tar -xzf queuehunter-free-0.1.24.tar.gz -C /opt/queuehunter
    cd /opt/queuehunter
    ```
 3. **Create your private configuration** (the first run only creates `.env` and stops):

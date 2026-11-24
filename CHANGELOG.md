@@ -3,6 +3,12 @@
 Only versions published in this repository are listed. Each entry links to its GitHub release,
 which contains the package, its checksum and the software bill of materials.
 
+## [0.1.24](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.24) — 2026-11-24
+
+- Fixed: while the Message details dialog was open, every dashboard refresh added another copy of
+  the Payload section and reset the Tree/Text view and expanded nodes. The dialog now shows exactly
+  one Payload section, and your view settings stay as you left them while the dashboard refreshes.
+
 ## [0.1.23](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.23) — 2026-11-23
 
 - No changes to the Free edition. This release adds the online environment check of the Team and

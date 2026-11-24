@@ -7,10 +7,10 @@ New versions are published as [releases](https://github.com/herbalydigital/queue
 
 1. Back up the installation ([backup guide](BACKUP-AND-RESTORE.md)).
 2. Download the new package and its `.sha256`, verify it and extract it into a **new** directory,
-   for example `/opt/queuehunter-0.1.23`.
+   for example `/opt/queuehunter-0.1.24`.
 3. Run the installer from the new directory:
    ```sh
-   cd /opt/queuehunter-0.1.23
+   cd /opt/queuehunter-0.1.24
    sha256sum -c SHA256SUMS
    ./install.sh
    ```
