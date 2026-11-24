@@ -13,7 +13,7 @@ body:
     attributes:
       label: QueueHunter version
       description: From the release name or `docker compose -f compose.prebuilt.yaml images`.
-      placeholder: "0.1.24"
+      placeholder: "0.1.25"
     validations:
       required: true
   - type: dropdown

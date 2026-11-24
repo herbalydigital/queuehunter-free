@@ -3,6 +3,12 @@
 Only versions published in this repository are listed. Each entry links to its GitHub release,
 which contains the package, its checksum and the software bill of materials.
 
+## [0.1.25](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.25) — 2026-11-24
+
+- Fixed: Collapse all in the Message details Payload tree left the top-level object open, so for a
+  flat payload the button seemed to do nothing. Collapse all now closes every node, including the
+  top level, and it stays collapsed while the dashboard refreshes. Expand all opens every node again.
+
 ## [0.1.24](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.24) — 2026-11-24
 
 - Fixed: while the Message details dialog was open, every dashboard refresh added another copy of
