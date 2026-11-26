@@ -1,6 +1,6 @@
 # Installation
 
-This guide installs QueueHunter Free 0.1.25 on one Linux server with Docker Compose.
+This guide installs QueueHunter Free 0.1.26 on one Linux server with Docker Compose.
 
 ## 1. Prepare
 
@@ -11,13 +11,13 @@ This guide installs QueueHunter Free 0.1.25 on one Linux server with Docker Comp
 
 ## 2. Download and verify
 
-Download `queuehunter-free-0.1.25.tar.gz` and `queuehunter-free-0.1.25.tar.gz.sha256` from the
+Download `queuehunter-free-0.1.26.tar.gz` and `queuehunter-free-0.1.26.tar.gz.sha256` from the
 [latest release](https://github.com/herbalydigital/queuehunter-free/releases/latest) into the same directory:
 
 ```sh
-sha256sum -c queuehunter-free-0.1.25.tar.gz.sha256
+sha256sum -c queuehunter-free-0.1.26.tar.gz.sha256
 sudo mkdir -p /opt/queuehunter
-sudo tar -xzf queuehunter-free-0.1.25.tar.gz -C /opt/queuehunter
+sudo tar -xzf queuehunter-free-0.1.26.tar.gz -C /opt/queuehunter
 cd /opt/queuehunter
 ```
 

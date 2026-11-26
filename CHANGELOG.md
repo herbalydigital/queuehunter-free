@@ -3,6 +3,15 @@
 Only versions published in this repository are listed. Each entry links to its GitHub release,
 which contains the package, its checksum and the software bill of materials.
 
+## [0.1.26](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.26) — 2026-11-26
+
+- Licensing: Free does not register environments with the licensing service. This release ships the
+  same licensing code as the Team and Enterprise editions (which now register on start, on broker
+  cluster changes and at regular intervals instead of every minute) and keeps Free from ever
+  registering.
+- Security (medium): libexpat 2.11.0 in the application images (CVE-2026-124317, CVE-2026-128241).
+- No configuration changes are needed. Upgrades keep your existing settings and captured messages.
+
 ## [0.1.25](https://github.com/herbalydigital/queuehunter-free/releases/tag/v0.1.25) — 2026-11-24
 
 - Fixed: Collapse all in the Message details Payload tree left the top-level object open, so for a
